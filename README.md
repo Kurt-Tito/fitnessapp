@@ -15,8 +15,9 @@ Quick Registration         |  Manage Workouts          |    Visualize Progress
 
 ### Future Plans & To-Do List
 1. Code refactoring & modularization
-2. Implement a "start routine" feature where the user can log their sets, reps, and weight
-3. Re-design UI for login and register page
-4. Remove home from app drawer / Implement app drawer's statistics, and settings
-5. Deploy application to Play Store and/or App Store
+2. Re-organize and categorize "all exercise" list view by targeted muscle
+3. Implement a "start routine" feature where the user can log their sets, reps, and weight
+4. Re-design UI for login and register page
+5. Remove home from app drawer / Implement app drawer's statistics, and settings
+6. Deploy application to Play Store and/or App Store
 
